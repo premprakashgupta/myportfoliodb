@@ -68,6 +68,17 @@
         {
           "title": "On MERN-Stack",
           "children": [
+              {
+              "name": "Praesentia AI (Company Project)",
+              "skills": [
+                { "color": "#235E8B", "text": "MySQL" },
+                { "color": "#74B141", "text": "NodeJs" }
+                
+              ],
+    
+              "link": "https://play.google.com/store/apps/details?id=com.stellar.ims&pcampaignid=web_share",
+              "desc": "An Ai driven app which provide HRMS to manage attendance, leave, visitor and payroll like zoho"
+            },
             {
               "name": "Netflix Design",
               "skills": [

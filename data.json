@@ -16,8 +16,16 @@
           "title": "Experience",
           "btn": true,
           "children": [
+              {
+              "duration": "May-2024 to present",
+              "name": "Systellar Technologies",
+              "profile": "Backend/Full Stack Developer",
+              "location": "Gurgaon, Haryana",
+              "link": "https://play.google.com/store/apps/details?id=com.stellar.ims&pcampaignid=web_share",
+              "desc": "Dedicated and skilled professional with expertise in Nodejs and MySql technologies, currently employed full-time at Systellar Technologies. Demonstrated proficiency in developing innovative and efficient solutions, contributing to the success of projects. Proven ability to work effectively in a team environment and deliver high-quality results within specified timelines. Adept at leveraging both Flutter and Laravel to create dynamic and responsive applications, showcasing strong problem-solving and analytical skills. Committed to staying current with industry trends and continuously expanding knowledge in the rapidly evolving field of technology"
+            },
             {
-              "duration": "Feb-2024 to present",
+              "duration": "Feb-2024 to May-2024",
               "name": "KartDaddy Online Service",
               "profile": "Software Engineer (Flutter)",
               "location": "Prayagraj (Allahabad)",
